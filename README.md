@@ -1,4 +1,4 @@
-# AdGuard_Home_built-in_Rules
+# AdGuard_Home_Official-built-in_Rules
 
 ---
 
@@ -75,28 +75,28 @@ PS：关于DNS拦截列表这里，个人建议不要求多而求精。
 ---
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/AdGuard_Home_built-in_Rules/master/img/1.webp">
+  <img src="https://raw.gitmirror.com/743859910/AdGuard_Home_Official-built-in_Rules/master/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/AdGuard_Home_built-in_Rules/master/img/2.webp">
+  <img src="https://raw.gitmirror.com/743859910/AdGuard_Home_Official-built-in_Rules/master/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/AdGuard_Home_built-in_Rules/master/img/3.webp">
+  <img src="https://raw.gitmirror.com/743859910/AdGuard_Home_Official-built-in_Rules/master/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/AdGuard_Home_built-in_Rules/master/img/4.webp">
+  <img src="https://raw.gitmirror.com/743859910/AdGuard_Home_Official-built-in_Rules/master/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/AdGuard_Home_built-in_Rules/master/img/5.webp">
+  <img src="https://raw.gitmirror.com/743859910/AdGuard_Home_Official-built-in_Rules/master/img/5.webp">
 </p>
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{AdGuard_Home_built-in_Rules}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{AdGuard_Home_Official-built-in_Rules}/count.svg)
 
 ---
 
@@ -108,7 +108,7 @@ PS：关于DNS拦截列表这里，个人建议不要求多而求精。
 
 ---
 
-[MIT License](https://github.com/743859910/AdGuard_Home_built-in_Rules/blob/master/LICENSE)
+[MIT License](https://github.com/743859910/AdGuard_Home_Official-built-in_Rules/blob/master/LICENSE)
 
 Copyright © 2008 - 2025 743859910. All Rights Reserved. 我只是你的过客工作室. 版权所有
 
