@@ -10,6 +10,14 @@ PS：关于DNS拦截列表这里，个人建议不要求多而求精。
 
 ---
 
+### 以下AGH分类规则已自动合并去重
+
+| 常规类规则源 | 其它类规则源 | 区域类规则源 | 安全类规则源 |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+| 原始链接：https://raw.githubusercontent.com/743859910/AdGuard_Home_Official-built-in_Rules/master/output/normal_rules.txt |   原始链接：https://raw.githubusercontent.com/743859910/AdGuard_Home_Official-built-in_Rules/master/output/other_rules.txt   | 原始链接：https://raw.githubusercontent.com/743859910/AdGuard_Home_Official-built-in_Rules/master/output/region_rules.txt | 原始链接：https://raw.githubusercontent.com/743859910/AdGuard_Home_Official-built-in_Rules/master/output/security_rules.txt |
+
+---
+
 | **常规** 共计15条 |
 | :------------------------- |
 | ↓ 在大多数设备上阻止跟踪和广告的列表 ↓ |

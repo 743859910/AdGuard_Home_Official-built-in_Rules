@@ -1,4 +1,4 @@
-# 其它类规则源
+# 其它辅助过滤
 # 其他黑名单
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_39.txt
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_6.txt
@@ -15,3 +15,5 @@ https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_62.txt
+# 自定义其它规则
+../custom/custom_other.txt

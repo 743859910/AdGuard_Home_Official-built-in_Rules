@@ -1,4 +1,4 @@
-# 常规类规则源
+# 常规广告拦截核心规则
 # 在大多数设备上阻止跟踪和广告的列表
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_24.txt
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_70.txt
@@ -15,3 +15,5 @@ https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt
+# 自定义常规规则（关联下方custom文件）
+../custom/custom_normal.txt
