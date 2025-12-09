@@ -1,0 +1,19 @@
+# 区域类规则源
+# 专注于区域广告和跟踪服务器的列表
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_35.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_22.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_19.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_43.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_15.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_36.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_20.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_13.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_14.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_17.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_26.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_40.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt

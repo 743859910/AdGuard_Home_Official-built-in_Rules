@@ -1,0 +1,17 @@
+# 常规类规则源
+# 在大多数设备上阻止跟踪和广告的列表
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_24.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_70.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_48.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_49.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt

@@ -1,0 +1,17 @@
+# 其它类规则源
+# 其他黑名单
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_39.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_6.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_45.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_46.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_67.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_47.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_66.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_61.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_65.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_60.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_62.txt

@@ -1,0 +1,37 @@
+name: AGH分类规则自动合并去重
+on:
+  # 定时触发：UTC 0点=北京时间上午8点，每天一次
+  schedule:
+    - cron: '0 0 * * *'
+  # 手动触发（测试用）
+  workflow_dispatch:
+
+jobs:
+  merge-rules:
+    runs-on: ubuntu-latest
+    steps:
+      # 拉取仓库代码
+      - name: 拉取仓库代码
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      # 执行分类合并脚本
+      - name: 分类合并去重规则
+        run: |
+          chmod +x merge_rules.sh
+          ./merge_rules.sh
+
+      # 提交分类规则到仓库
+      - name: 提交更新后的规则
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add output/  # 只提交output文件夹（最终规则）
+          # 有变更才提交
+          if git diff --quiet --cached; then
+            echo "所有分类规则无更新，无需提交"
+          else
+            git commit -m "Auto merge AGH rules: $(date +'%Y-%m-%d %H:%M:%S')"
+            git push origin master
+          fi
