@@ -96,10 +96,6 @@ PS：关于DNS拦截列表这里，个人建议不要求多而求精。
 
 ---
 
-![name](https://api.likepoems.com/counter/get/@AdGuard_Home_Official-built-in_Rules)
-
----
-
 昵称：我只是你的过客
 
 个性签名：每个人都是每个人的过客
